@@ -1,0 +1,71 @@
+body {
+  background-color: rgb(66, 66, 66);
+}
+.titulo {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 70px;
+  color: rgb(211, 211, 211);
+  text-align: left;
+  padding-top: 1cm;
+  padding-left: 0.5cm;
+}
+.sectit {
+  font-family: "Brush Script";
+  font-style: oblique;
+  font-size: 35px;
+  color: rgb(211, 211, 211);
+  text-align: right;
+  padding-right: 0.5cm;
+}
+.tertit {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: inherit;
+  font-size: 35px;
+  color: rgb(211, 211, 211);
+  padding-right: 0.5cm;
+  text-align: left;
+}
+.visualizador {
+  font-family: "Impact, Charcoal, sans-serif";
+  color: rgb(8, 240, 0);
+  text-align: center;
+  font-size: 50px;
+}
+.buttom-show {
+  box-shadow: 0px 0px 0px 1px #9fb4f2;
+  background-color: #7892c2;
+  border-radius: 10px;
+  border: 1px solid #4e6096;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 40px;
+  padding: 8px 16px;
+  text-decoration: none;
+  text-shadow: 0px 0px 0px #283966;
+}
+.buttom-show:hover {
+  background-color: darkblue;
+}
+.acbuttom {
+  box-shadow: 0px 0px 0px 1px #e44a4a;
+  background-color: #ff0000;
+  border-radius: 10px;
+  border: 1px solid #eeecec;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 40px;
+  padding: 8px 16px;
+  text-decoration: none;
+  text-shadow: 0px 0px 0px #f14848;
+}
+.acbuttom:hover {
+  background-color: rgb(139, 18, 9);
+}
+.visualizador {
+  background-color: darkgrey;
+}
